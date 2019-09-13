@@ -1,0 +1,27 @@
+.header {
+    display: flex;
+    justify-content: flex-end;
+    border-bottom:1px solid #BCBCBC;
+    background-color: #FFFFFF;
+    padding: 8px 20px;
+    
+}
+
+.user-header {
+    display: flex;
+}
+.user-header__info {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: right;
+    margin-right:8px;
+
+}
+.user-header__avatar {
+    width: 52px;
+    height: 52px;
+    border-radius: 50%;
+    background-color: #E2E2E2;
+
+}
