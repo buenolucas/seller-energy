@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 263 117" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g transform="matrix(1,0,0,1,0,-1200.73)">
+        <g id="Prancheta3" transform="matrix(0.958403,0,0,0.93763,300.807,81.3147)">
+            <rect x="-313.863" y="1193.87" width="273.957" height="123.875" style="fill:none;"/>
+            <g transform="matrix(1.0434,0,0,1.06652,-777.611,1080.92)">
+                <g transform="matrix(2.47729,0,0,2.6318,-4450.86,-373.284)">
+                    <text x="2016.32px" y="208.165px" style="font-family:'HelveticaNeue', 'Helvetica Neue';font-size:12px;fill:white;">S<tspan x="2023.62px 2029.58px 2031.77px 2033.95px 2039.91px 2043.43px 2046.29px 2053.14px 2059.33px 2065.29px 2068.47px 2074.88px " y="208.165px 208.165px 208.165px 208.165px 208.165px 208.165px 208.165px 208.165px 208.165px 208.165px 208.165px 208.165px ">eller Energy</tspan></text>
+                </g>
+                <g transform="matrix(1.13139,0,0,1.13139,-55.2922,-14.5834)">
+                    <g transform="matrix(5.26427,0,0,5.26427,-10085.8,-950.436)">
+                        <path d="M2000.79,219.73L2007.17,212.416L2010.2,216.674L2017.41,200.788L2009.92,210.575L2007.15,207.949L2000.79,219.73Z" style="fill:rgb(255,235,0);"/>
+                    </g>
+                    <g transform="matrix(1,0,0,1,-1365.77,-47.457)">
+                        <path d="M1813.01,253.372L1846.23,215.049L1856.25,229.085L1813.01,253.372Z" style="fill:rgb(237,194,34);"/>
+                    </g>
+                    <g transform="matrix(1,0,0,1,-1365.77,-47.457)">
+                        <path d="M1885.95,224.358L1899.98,154.301L1862.23,237.571L1885.95,224.358Z" style="fill:rgb(237,194,34);"/>
+                    </g>
+                    <g transform="matrix(1,0,0,1,-1365.77,-47.457)">
+                        <path d="M1846.2,191.723L1860.6,205.824L1871.17,191.934L1846.2,191.723Z" style="fill:rgb(237,194,34);"/>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
