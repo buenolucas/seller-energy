@@ -1,0 +1,48 @@
+.login-bg {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 100%;
+  background-color: #00a6ac;
+}
+
+.panel {
+  background-color: #ffffff;
+  width: 480px;
+  padding: 2px;
+  text-align: center;
+}
+
+.panel-header {
+  background-image: linear-gradient(
+    to right,
+    #00ffc9,
+    #00f0c5 10%,
+    #00e1c0 20%,
+    #00d2bb 30%,
+    #00c3b6 40%,
+    #00b5b1 50%,
+    #00a6ac 60%,
+    #0097a7 70%,
+    #0088a2 80%,
+    #007a9d 90%,
+    #006b99
+  );
+  height: 64px;
+}
+.panel-header img {
+  margin-top: -22px;
+}
+.panel-container {
+  margin-top: 32px;
+}
+.panel-title {
+  font-size: 26px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+.panel-inner {
+    text-align: left;
+    padding: 20px;
+}
